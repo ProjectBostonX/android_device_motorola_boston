@@ -16,15 +16,15 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/virtual_ab_ota.mk)
 # Inherit some common TWRP stuff.
 $(call inherit-product, vendor/twrp/config/common.mk)
 
-# Inherit from avatrn device
+# Inherit from boston device
 $(call inherit-product, device/motorola/boston/device.mk)
 
 PRODUCT_DEVICE := boston
-PRODUCT_NAME := twrp_boston
-PRODUCT_BRAND := Moto_G
-PRODUCT_MODEL := XT2419
-PRODUCT_MANUFACTURER := Motorola
-PRODUCT_RELEASE_NAME := Moto G Sylus 5G 2024
+PRODUCT_NAME := ProjectXBoston
+PRODUCT_BRAND := ProjectX
+PRODUCT_MODEL := Project X Boston
+PRODUCT_MANUFACTURER := luhhcarrl2x
+PRODUCT_RELEASE_NAME := Project X Boston
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 

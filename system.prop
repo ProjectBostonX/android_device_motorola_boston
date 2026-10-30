@@ -1,6 +1,9 @@
-# Product informations
+# Product information
 ro.product.board=parrot
 ro.board.platform=parrot
+ro.product.model=Project X Boston
+ro.product.name=ProjectXBoston
+ro.vendor.product.model=Project X Boston
 
 # ADB
 ro.adb.secure=0

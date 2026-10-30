@@ -9,9 +9,9 @@ DEVICE_PATH := device/motorola/boston
 DEVICE_PREBUILT_PATH := device/motorola/boston/prebuilt
 
 # A-Team Maintainer Info
-TW_MAINTAINER := PizzaG
-TW_DEVICE_VERSION := 0.1
-RECOVERY_VARIANT := TWRP_12.1
+TW_MAINTAINER := Luhhcarrl2x
+TW_DEVICE_VERSION := Project X Boston • Created by luhhcarrl2x
+RECOVERY_VARIANT := Project X Boston
 
 # A/B
 AB_OTA_UPDATER := true
